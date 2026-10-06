@@ -1,4 +1,4 @@
-const SHEET_ID = '1kpAwrqMGMH1PvJxzDxUKq6BqGMC3zV13Nbmxwf_y9s4';
+const SHEET_ID = '1lf9FIF17DZG2M9AndpA1dmMh-Cnrp_EBbFmi5SjNe_M';
 const FOLDER_ID = '1KLolK_Y-pIMhrLgCF9OEOFC6ZHQH32Sm';
 
 const LAPORAN_SHEET = 'LAPORAN';
